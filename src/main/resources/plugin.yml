@@ -1,0 +1,12 @@
+name: Flyingcarpet
+version: ${project.version}
+main: me.darkeyedragon.flyingcarpet.FlyingCarpet
+api-version: 1.13
+prefix: FC
+authors: [DarkEyeDragon]
+description: Let players fly on their carpet
+website: https://darkeyedragon.me
+commands:
+  carpet:
+    description: Create a carpet for yourself or others
+    usage: /carpet [username] [block material]
