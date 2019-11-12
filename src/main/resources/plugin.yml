@@ -6,7 +6,3 @@ prefix: FC
 authors: [DarkEyeDragon]
 description: Let players fly on their carpet
 website: https://darkeyedragon.me
-commands:
-  carpet:
-    description: Create a carpet for yourself or others
-    usage: /carpet [username] [block material]
